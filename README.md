@@ -37,15 +37,16 @@
 
 
 ### 一 Visit and Subscribe YouTube Channel For More Tricks and Updates 😙♥️🫀
-<p align="left" >
-  <a href="https://youtube.con/@YounisXyz"><img src="https://img.shields.io/badge/YouTube-Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@YounisXyz" /><br>
-     
-</p>   
+[![YouTube](https://img.shields.io/badge/Tube-0A66C2?style=flat&logo=YouTube&style=dark)](https://youtube.com/You/@YounisXyz)
+
     
-## 🔧 Technologies & Tools
-- Languages: Python, JavaScript
-- Frameworks: Flask, React
-- Tools: Git, VS Code, Docker
+### Languages and Tools:
+<!-- Add your favorite programming languages and tools here -->
+![HTML](https://img.shields.io/badge/HTML-5F4E0E?style=flat&logo=html5&style=dark)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&style=dark)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&style=dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&style=dark)
+
 
 ## 📈 GitHub Stats
 [![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=younis-dgk&show_icons=true&hide=contribs,prs)](https://github.com/younis-dgk)
