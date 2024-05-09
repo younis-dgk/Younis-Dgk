@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/ayushpandeyy_023"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/younis_dgk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
 ## 一 join Support Group 🗞️
 <p align="center">
