@@ -37,7 +37,7 @@
 
 
 ### 一 Visit and Subscribe YouTube Channel For More Tricks and Updates 😙♥️🫀
-[![YouTube](https://img.shields.io/badge/Tube-0A66C2?style=flat&logo=YouTube&style=dark)](https://youtube.com/You/@YounisXyz)
+[![YouTube](https://img.shields.io/badge/YouTube-0A66C2?style=flat&logo=YouTube&style=dark)](https://youtube.com/YounisXyz/@YounisXyz)
 
     
 ### Languages and Tools:
